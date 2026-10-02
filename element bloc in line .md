@@ -3,7 +3,7 @@
 
 Exemples : <p>, <div>, <h1>.
 
-Élément en ligne (inline) : il reste dans le flux du texte et n'effectue pas automatiquement de retour à la ligne.
+Élément en ligne (inline) : il reste  à l’intérieur de la ligne normale du texte , sans créer une nouvelle ligne du texte et n'effectue pas automatiquement de retour à la ligne.
 
 Exemples : <a>, <span>, <strong>.
 
