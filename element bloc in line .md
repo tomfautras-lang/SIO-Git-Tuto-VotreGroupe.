@@ -12,4 +12,7 @@ display : propriété CSS permettant notamment de modifier le mode d'affichage d
 display: block;
 display: inline;
 display: inline-block;
+<p> est un élément block : il occupe généralement toute la largeur disponible et commence sur une nouvelle ligne.
+<a> est un élément inline : il reste dans le flux du texte et n'occupe que la largeur de son contenu.
+
 
